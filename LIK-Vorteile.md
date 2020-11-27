@@ -1,4 +1,4 @@
-# Haushaltsausgaben
+# Vorteile
 Die Ausgaben der Privathaushalte in der Schweiz werden hier in Form von Detailtabellen mit über 500 Indikatoren auf fünf Hierarchiestufen dargestellt.
 
 Dies erlaubt, die groben Aggregate in den Übersichtstabellen genauer zu analysieren und dokumentiert damit gleichzeitig auch den Inhalt jedes Aggregats.
