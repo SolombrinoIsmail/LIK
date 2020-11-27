@@ -28,6 +28,9 @@
   So werden beispielsweise im Bereich der Nahrungsmittel Feinaggregate wie "Brot", "Rindfleisch" oder "Äpfel" separat ausgewiesen.
   [Detaillierte Haushaltsausgaben sämtlicher Haushalte nach Jahr](https://www.bfs.admin.ch/bfs/de/home/statistiken/wirtschaftliche-soziale-situation-bevoelkerung/einkommen-verbrauch-vermoegen/haushaltsbudget/haushaltsausgaben.assetdetail.14877604.html)
 
+Des Weiteren sieht man ende Jahr Details zum Warenkorb und zur Gewichtungen. Ein gutes Beispiel dafür ist das folgende Kreisdiagramm:
+[Kreis Diagramm](Kreis_Diagramm.PNG)
+
 ## Nachteile
 Die Aktualisierung vom Warenkorb erfolgt nicht sehr schnell
 Reiche Familien kaufen anders ein wie armere Familien
