@@ -1,0 +1,2 @@
+# LIK
+Landesindex der Konsumentenpreise
