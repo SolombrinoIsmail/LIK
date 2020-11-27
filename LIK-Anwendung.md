@@ -1,0 +1,2 @@
+# Anwendungen
+Die Anwendungen des Landesindexes und damit die an ihn gestellten Anforderungen sind äusserst vielfältig. Das Spektrum der Index-Anwendungen reicht von der Beurteilung der Wirtschaftslage im Zusammenhang mit der Geldpolitik oder der internationalen Wettbewerbsfähigkeit unseres Landes über die Indexierung von Löhnen, Renten und anderen Geldwerten bis hin zur Teuerungsbereinigung beispielsweise zur Ermittlung des realen Wirtschaftswachstums und der realen Lohn- oder Umsatzentwicklung.
